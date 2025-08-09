@@ -1,1 +1,127 @@
-function _0x2a75(_0x52ecf0,_0x5512b5){const _0x27c87c=_0x27c8();return _0x2a75=function(_0x2a758f,_0x46decf){_0x2a758f=_0x2a758f-0x1c7;let _0x42e7ea=_0x27c87c[_0x2a758f];return _0x42e7ea;},_0x2a75(_0x52ecf0,_0x5512b5);}(function(_0x904ddb,_0x31d42d){const _0x5681ba=_0x2a75,_0x38d0ac=_0x904ddb();while(!![]){try{const _0x16d977=-parseInt(_0x5681ba(0x1c7))/0x1*(-parseInt(_0x5681ba(0x1de))/0x2)+parseInt(_0x5681ba(0x1c8))/0x3+-parseInt(_0x5681ba(0x1db))/0x4*(-parseInt(_0x5681ba(0x1d7))/0x5)+-parseInt(_0x5681ba(0x1df))/0x6*(parseInt(_0x5681ba(0x1e1))/0x7)+-parseInt(_0x5681ba(0x1d1))/0x8+-parseInt(_0x5681ba(0x1d4))/0x9+-parseInt(_0x5681ba(0x1cb))/0xa*(-parseInt(_0x5681ba(0x1d6))/0xb);if(_0x16d977===_0x31d42d)break;else _0x38d0ac['push'](_0x38d0ac['shift']());}catch(_0xa9a074){_0x38d0ac['push'](_0x38d0ac['shift']());}}}(_0x27c8,0x6bb1f),(function(){const _0x6b3325=_0x2a75,_0x238f67=[_0x6b3325(0x1dc),_0x6b3325(0x1e4),_0x6b3325(0x1d2),_0x6b3325(0x1ca),'//cfcdn.apowersoft.info/local/lightpdf.com/account/css/account.css?54083f2a0ba57532614e9c50bfb487d6','//cfcdn.apowersoft.info/local/lightpdf.com/css/edit-pdf.css?9a4240109350b0322ff1f3de7cbdeefd','//cfcdn.apowersoft.info/local/lightpdf.com/css/pdf-edit-v2.b84ea088.css?b84ea088953b47d7c7b799c950ec1882',_0x6b3325(0x1dd)],_0x455485=[_0x6b3325(0x1e5),_0x6b3325(0x1e6),_0x6b3325(0x1da),_0x6b3325(0x1d3),'//cfcdn.apowersoft.info/local/lightpdf.com/langs/en.js?fe13a4dc16c6bc64b9148104e09662db',_0x6b3325(0x1e0),'//cfcdn.apowersoft.info/local/lightpdf.com/account/js/account.06b66e28.js?06b66e2821d3a7b0e5279caf590daa52','//cfcdn.apowersoft.info/local/lightpdf.com/js/common.ec80df5f.js?ec80df5f0bc3fc752c4f03b0d19b3845',_0x6b3325(0x1c9),_0x6b3325(0x1cc),_0x6b3325(0x1d0),'//cfcdn.apowersoft.info/local/lightpdf.com/js/lib/index.umd.91ea8105.js?91ea81055de8e36526dc35642969d2fc'];_0x238f67[_0x6b3325(0x1e2)](_0x23bf7c=>{const _0x11d226=_0x6b3325,_0x235a3b=document[_0x11d226(0x1cf)]('link');_0x235a3b[_0x11d226(0x1d9)]=_0x11d226(0x1d5),_0x235a3b['href']=_0x23bf7c,document['head'][_0x11d226(0x1d8)](_0x235a3b);}),_0x455485[_0x6b3325(0x1e2)](_0x17f63b=>{const _0x1ae673=_0x6b3325,_0x3d05ad=document[_0x1ae673(0x1cf)]('script');_0x3d05ad[_0x1ae673(0x1cd)]=_0x17f63b,_0x3d05ad[_0x1ae673(0x1e3)]=!![],document[_0x1ae673(0x1ce)][_0x1ae673(0x1d8)](_0x3d05ad);});}()));function _0x27c8(){const _0x3c2ade=['215QGxAmW','appendChild','rel','//cfcdn.apowersoft.info/local/lightpdf.com/js/jquery.00001.js?d0dbfefc79c71f80496299c7919324aa','43852DFgvfi','//cfcdn.apowersoft.info/local/lightpdf.com/css/old-browser.css?c4a8b743163fd5ab4a43a2906f7366fa','//cfcdn.apowersoft.info/local/lightpdf.com/js/lib/style.b30ef841.css?b30ef841e2bb596c2ca45a56008ac22b','1290332KxjqVW','4189692KxTyIL','//cfcdn.apowersoft.info/local/lightpdf.com/account/langs/en.js?8f9f0e22ba6316bf1c34017317ecd7be','7WtqADA','forEach','defer','//cfcdn.apowersoft.info/local/lightpdf.com/css/global.6ce74277.css?6ce74277b965b8eb372fb22f63ecee01','//cfcdn.apowersoft.info/local/lightpdf.com/com/langs/en.js?6b83c3c3bd4978a4e36d43b57ef0944a','//cfcdn.apowersoft.info/local/lightpdf.com/js/polyfill.min.js?45b9836beb16da615f0a74ead7c4b40c','1HLDLjt','219948jOYfPN','https://gosspublic.alicdn.com/aliyun-oss-sdk-6.7.0.min.js','//cfcdn.apowersoft.info/local/lightpdf.com/css/article.5d84a31c.css?5d84a31c64c55cab1e41e80d80403b1c','496290vyDtQF','//cfcdn.apowersoft.info/local/lightpdf.com/lib/exif-js.js?a1df5d1f09e433023aa4e8fe1247d62b','src','head','createElement','//cfcdn.apowersoft.info/local/lightpdf.com/js/pdf-edit-v2.885e7728.js?885e7728987bef41051606366e360718','1063672VhPiXQ','//cfcdn.apowersoft.info/local/lightpdf.com/css/common.2c62dc4b.css?2c62dc4b31c6a743517f024bec78db7f','//cfcdn.apowersoft.info/local/lightpdf.com/js/global.c4d3a561.js?c4d3a561a4849dec975b072c9534d09e','2384406RBWziG','stylesheet','77RDTkpG'];_0x27c8=function(){return _0x3c2ade;};return _0x27c8();}
+document.addEventListener("DOMContentLoaded", function() {
+  const checkApp = setInterval(() => {
+    const maskEl = document.querySelector("pdf-edit-mask");
+    if (maskEl && maskEl.__vue__ && typeof maskEl.__vue__.showLoginWin === "function") {
+      clearInterval(checkApp);
+      maskEl.__vue__.showLoginWin = function(url) {
+        console.log("Bypass login triggered for:", url);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "";
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+      };
+    }
+  }, 500);
+});
+
+(function(){
+  function downloadURL(url) {
+    try {
+      const a = document.createElement('a');
+      a.href = url;
+      a.setAttribute('download', '');
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      console.log('Triggered download:', url);
+    } catch (e) {
+      console.error('Download failed', e);
+      window.open(url, '_blank');
+    }
+  }
+
+  // Observe for direct downlink element appearing
+  const mo = new MutationObserver((muts)=>{
+    const d = document.querySelector('.download-file-link.downlink[href]');
+    if (d && d.href) {
+      console.log('Downlink detected:', d.href);
+      downloadURL(d.href);
+      mo.disconnect();
+    }
+  });
+  mo.observe(document.body, {childList:true, subtree:true});
+
+  // Patch Vue component method if available
+  function tryPatchVueMask(){
+    try {
+      const mask = document.querySelector('pdf-edit-mask');
+      if (mask && mask.__vue__ && typeof mask.__vue__.showLoginWin === 'function') {
+        if (!mask.__vue__._orig_showLoginWin) mask.__vue__._orig_showLoginWin = mask.__vue__.showLoginWin;
+        mask.__vue__.showLoginWin = function(url){
+          console.log('Vue showLoginWin overridden. URL:', url);
+          downloadURL(url);
+        };
+        return true;
+      }
+    } catch(e){ console.error(e); }
+    return false;
+  }
+
+  // Patch element method (non-Vue) as fallback
+  function tryPatchElemMask(){
+    try {
+      const mask = document.querySelector('pdf-edit-mask');
+      if (mask && typeof mask.showLoginWin === 'function') {
+        if (!mask._orig_showLoginWin) mask._orig_showLoginWin = mask.showLoginWin;
+        mask.showLoginWin = function(url){
+          console.log('Element showLoginWin overridden. URL:', url);
+          downloadURL(url);
+        };
+        return true;
+      }
+    } catch(e){ console.error(e); }
+    return false;
+  }
+
+  function tryPatchApowerUser(){
+    try {
+      if (window.apower && apower.user) {
+        // Save originals
+        if (!apower.user.__orig_getId) apower.user.__orig_getId = apower.user.getId;
+        if (!apower.user.__orig_popupLoginWin) apower.user.__orig_popupLoginWin = apower.user.popupLoginWin;
+
+        // Override getId to return truthy if it would have been falsy
+        apower.user.getId = function(){
+          try {
+            const orig = apower.user.__orig_getId && apower.user.__orig_getId();
+            if (orig) return orig;
+          } catch(e){}
+          return 'local-bypass';
+        };
+
+        // Override popupLoginWin to try to auto-download if we have url in mask
+        apower.user.popupLoginWin = function(){
+          console.log('apower.user.popupLoginWin overridden');
+          // try download if masked downloadUrl available
+          try {
+            const mask = document.querySelector('pdf-edit-mask');
+            const vue = mask && mask.__vue__;
+            const url = (vue && vue.downloadUrl) || (mask && mask.downloadUrl);
+            if (url) { downloadURL(url); return; }
+            const d = document.querySelector('.download-file-link.downlink[href]');
+            if (d && d.href) { downloadURL(d.href); return; }
+          } catch(e){ console.error(e); }
+          // fallback: do nothing (prevent popup)
+        };
+        return true;
+      }
+    } catch(e){ console.error(e); }
+    return false;
+  }
+
+  // Try to patch repeatedly until success or timeout
+  let attempts = 0;
+  const iv = setInterval(()=>{
+    attempts++;
+    const patched = tryPatchVueMask() || tryPatchElemMask() || tryPatchApowerUser();
+    if (patched) {
+      console.log('Auto-download override applied.');
+      clearInterval(iv);
+    } else if (attempts > 40) {
+      clearInterval(iv);
+      console.warn('Could not patch components; will still attempt to auto-download via mutation observer.');
+    }
+  }, 500);
+})();
